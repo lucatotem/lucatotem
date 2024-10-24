@@ -71,6 +71,31 @@
 
 ---
 
+## 📂 Projects:
+
+### 1. [Project Name - MERN Stack Web App](https://github.com/lucatotem/your-project)
+- A **full-stack MERN** web application that does [XYZ]. It includes:
+  - Real-time updates with **React** and **Node.js**.
+  - Authentication with **JWT** and secure database integration.
+  - Optimized frontend performance with lazy loading and caching.
+  
+### 2. [Project Name - DevOps Pipeline](https://github.com/lucatotem/your-project)
+- Built a scalable **CI/CD pipeline** using **GitLab** and **Docker** for continuous integration and deployment of containerized applications.
+- Automated testing using **GitHub Actions** and deployment to **AWS**.
+
+### 3. [Project Name - Machine Learning Tool](https://github.com/lucatotem/your-project)
+- Developed a machine learning model using **Python** and **Scikit-learn** to predict [outcome].
+- Integrated with a **Flask** backend and deployed to **Heroku** for seamless access.
+
+---
+
+## 🎯 My Goals:
+
+- 🌐 Short-term: Deepen my understanding of **microservices architecture** and **cloud computing**.
+- 🚀 Long-term: Lead a team of engineers working on **cutting-edge technologies** like **AI** and **blockchain**.
+
+---
+
 ## 🌐 Connect with Me:
 
 <div align="center">
