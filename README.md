@@ -21,23 +21,37 @@
     <td align="center" width="33%">
       <h3>Frontend</h3>
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+      <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
       <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+      <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
       <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-      <!-- Add more relevant frontend icons here -->
+      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
+      <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
     </td>
     <td align="center" width="33%">
       <h3>Backend</h3>
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-      <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" />
-      <!-- Add more relevant backend icons here -->
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+      <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+      <img src="https://img.icons8.com/fluency/48/000000/swing.png" alt="Java Swing" />
+      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/express.png" alt="Express" />
+      <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" />
+      <img src="https://img.icons8.com/color/48/000000/quarkus.png" alt="Quarkus" />
     </td>
     <td align="center" width="33%">
       <h3>DevOps & Tools</h3>
       <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
       <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
       <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
-      <!-- Add more DevOps tools here -->
+      <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab Pipelines" />
+      <img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL" />
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+      <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/github-actions.png" alt="GitHub Actions" />
+      <img src="https://img.icons8.com/color/48/000000/dot-net.png" alt=".NET" />
     </td>
   </tr>
 </table>
