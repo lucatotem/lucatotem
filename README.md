@@ -1,16 +1,29 @@
 <div align="center">
 </div>
 
-<h2 align="center">Hi, I'm Ivan 👨‍💻</h2>
-<h4 align="center">Full-time University Student & Part-time at Worldline</h4>
-<h5 align="center">Working since 2024 🚀</h5>
+<h1 align="center">Hi, I'm Ivan 👨‍💻</h1>
+<h3 align="center">Full-time University Student & Part-time Developer at Worldline</h3>
+<h4 align="center">Passionate about building full-stack web apps and scaling projects 🚀</h4>
 
 ---
 
 ### 🚀 About Me:
-- 🔭 Currently working on University projects.
-- ❓ Ask me about anything related to MERN stack and related technologies.
-- ⚡ Fun fact: I use tabs over spaces! 😄
+- 🎓 I'm currently pursuing a degree in Computer Science at [Your University].
+- 💼 Working part-time at **Worldline**, where I apply my skills in backend and frontend development.
+- 🌱 I’m continuously learning new technologies and staying updated with industry trends.
+- 💬 Ask me about anything related to the **MERN stack**, **DevOps**, and modern web development practices.
+- 🧠 I’m also exploring fields like **AI** and **machine learning** in my spare time.
+- ⚡ Fun fact: I’m a fan of **tabs** over spaces, and I love contributing to **open-source projects**.
+
+---
+
+## 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucatotem&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucatotem&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucatotem&theme=tokyonight&hide_border=true&layout=compact" alt="Most Used Languages" />
+</div>
 
 ---
 
