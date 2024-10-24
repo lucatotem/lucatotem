@@ -37,10 +37,10 @@
       <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
       <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-      <img src="https://img.icons8.com/fluency/48/000000/swing.png" alt="Java Swing" />
+      <img src="https://raw.githubusercontent.com/kmajhi/java-swing/main/java%20swing.png" alt="Java Swing" />
       <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" alt="Express" />
       <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" />
-      <img src="https://img.icons8.com/color/48/000000/quarkus.png" alt="Quarkus" />
+      <img src="https://blog.doubleslash.de/wp-content/uploads/2021/11/Quarkus_logo.png" alt="Quarkus" />
     </td>
     <td align="center" width="33%">
       <h3>DevOps & Tools</h3>
