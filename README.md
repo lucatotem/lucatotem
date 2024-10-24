@@ -52,7 +52,7 @@
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
       <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" width="48" height="48"/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="48" height="48"/>
-      <img src="https://repository-images.githubusercontent.com/194183695/eb15e700-a3b5-11e9-8c50-5f68afabec0e" alt="WDIO" width="48" height="48"/>      
+      <img src="https://webdriver.io/img/logo-webdriver-io.png" alt="WDIO" width="48" height="48"/>      
     </td>
   </tr>
 </table>
