@@ -1,70 +1,57 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Ivan, a full-time University Student working part-time at Worldline 👨‍💻 working since 2024 🚀</div>  
-  
-
-- 🔭 I’m currently working on Uni
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" alt="greetings" style="width: 100%;"/>
 </div>
 
-</td><td valign="top" width="33%">
+<h2 align="center">Hi, I'm Ivan 👨‍💻</h2>
+<h4 align="center">Full-time University Student & Part-time at Worldline</h4>
+<h5 align="center">Working since 2024 🚀</h5>
 
+---
 
+### 🚀 About Me:
+- 🔭 Currently working on University projects.
+- ❓ Ask me about anything related to MERN stack and related technologies.
+- ⚡ Fun fact: I use tabs over spaces! 😄
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> 
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
-</td></tr></table>  
+## 🛠️ My Skill Set:
 
-<br/>  
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <h3>Frontend</h3>
+      <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
+      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+      <!-- Add more relevant frontend icons here -->
+    </td>
+    <td align="center" width="33%">
+      <h3>Backend</h3>
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+      <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+      <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express" />
+      <!-- Add more relevant backend icons here -->
+    </td>
+    <td align="center" width="33%">
+      <h3>DevOps & Tools</h3>
+      <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
+      <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
+      <!-- Add more DevOps tools here -->
+    </td>
+  </tr>
+</table>
 
+---
 
-## Connect with me  
+## 🌐 Connect with Me:
+
 <div align="center">
-<a href="https://github.com/lucatotem" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ivan-raytchinov-a80b95274/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-
+  <a href="https://github.com/lucatotem" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/ivan-raytchinov-a80b95274/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
