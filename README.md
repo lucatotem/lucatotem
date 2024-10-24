@@ -38,7 +38,7 @@
       <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
       <img src="https://img.icons8.com/fluency/48/000000/swing.png" alt="Java Swing" />
-      <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/express.png" alt="Express" />
+      <img src="https://ih1.redbubble.net/image.2083639299.4034/fposter,small,wall_texture,product,750x1000.jpg" alt="Express" />
       <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" />
       <img src="https://img.icons8.com/color/48/000000/quarkus.png" alt="Quarkus" />
     </td>
