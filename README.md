@@ -56,6 +56,7 @@
       <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
       <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" alt="Express" width="48" height="48" />
       <img src="https://blog.doubleslash.de/wp-content/uploads/2021/11/Quarkus_logo.png" alt="Quarkus" width="48" height="48"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="48" height="48"/>
     </td>
     <td align="center" width="25%">
       <h3>DevOps & Tools</h3>
@@ -65,7 +66,6 @@
       <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab Pipelines" />
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
       <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" width="48" height="48"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="48" height="48"/>
       <img src="https://webdriver.io/img/logo-webdriver-io.png" alt="WDIO" width="48" height="48"/>      
     </td>
   </tr>
