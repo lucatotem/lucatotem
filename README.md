@@ -75,23 +75,23 @@
 
 ## 📂 Projects(Pictures can be seen on my personal website):
 
-### 1. [Project Name - Car Rental]
+### 1. Project Name - Car Rental
 - A Car Rental Management Service. 
   - Real-time updates with Flutter and Quarkus with a SQL Server Database
   - The service allows users to create orders, view vehicle the details including if they are rented and the order number, and statistics for the managed vehicle.
   
-### 2. [Project Name - Cloth Simulation]
+### 2. Project Name - Cloth Simulation
 - A Cloth Falling Simulator 
 - Made with OpenGL, QT and C++.
 - The simulation allows the user to drop a flat cloth simulation based on the rk4 spring aproach on different objects with increasing accuracy by adding more particles and the changing cloth types by changing the mesh variables.
 
-### 3. [Project Name - RWTH Homework Sharing]
+### 3. Project Name - RWTH Homework Sharing
 - Website for sharing homework and solutions for RWTH students
 - Made with MEAN Stack. 
 - Allows users to create and view homework and solutions for the homework
 - The website also has a login page and a user page that shows the user's homework and solutions and an admin verification process for non implemented future features.
 
-### 4. [Project Name - Turing Machine Simulator]
+### 4. Project Name - Turing Machine Simulator
 - A Turing Machine Simulator made with the Swing Library and Java
 - The simulator allows the user to create a Turing Machine with a set of states and transitions and run the machine on a given input
 - The simulator also shows the steps the machine took and the result of the machine
