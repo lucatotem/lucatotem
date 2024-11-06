@@ -8,12 +8,11 @@
 ---
 
 ### 🚀 About Me:
-- 🎓 I'm currently pursuing a degree in Computer Science at [Your University].
+- 🎓 I'm currently pursuing a degree in Computer Science at **RWTH Aachen**.
 - 💼 Working part-time at **Worldline**, where I apply my skills in backend and frontend development.
 - 🌱 I’m continuously learning new technologies and staying updated with industry trends.
-- 💬 Ask me about anything related to the **MERN stack**, **DevOps**, and modern web development practices.
 - 🧠 I’m also exploring fields like **AI** and **machine learning** in my spare time.
-- ⚡ Fun fact: I’m a fan of **tabs** over spaces, and I love contributing to **open-source projects**.
+- ⚡ Fun fact: I’m a fan of **tabs** over spaces, and I love **open-source projects**.
 
 ---
 
