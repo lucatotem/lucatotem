@@ -106,8 +106,8 @@
 
 ## 🎯 My Goals:
 
-- 🌐 Short-term: Deepen my understanding of **microservices architecture** and **cloud computing**.
-- 🚀 Long-term: Lead a team of engineers working on **cutting-edge technologies** like **AI** and **blockchain**.
+- 🌐 Short-term: Deepen my understanding of **Machine learning** and **AI Algorithms**.
+- 🚀 Long-term: Lead a team of engineers.
 
 ---
 
