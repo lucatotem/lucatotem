@@ -73,7 +73,7 @@
 
 ---
 
-## 📂 Projects(Pictures can be seen on my persona; website):
+## 📂 Projects(Pictures can be seen on my personal website):
 
 ### 1. [Project Name - Car Rental]
 - A Car Rental Management Service. 
