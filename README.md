@@ -71,6 +71,8 @@
   </tr>
 </table>
 
+As well as everything learned at University
+
 ---
 
 ## 📂 Projects(Pictures can be seen on my personal website):
