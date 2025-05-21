@@ -9,7 +9,7 @@
 
 ### 🚀 About Me:
 - 🎓 I'm currently pursuing a degree in Computer Science at **RWTH Aachen**.
-- 💼 Working part-time at **Worldline**, where I apply my skills in backend and frontend development.
+- 💼 Working part-time at **Textelligence**, where I apply my skills in backend and frontend development.
 - 🌱 I’m continuously learning new technologies and staying updated with industry trends.
 - 🧠 I’m also exploring fields like **AI** and **machine learning** in my spare time.
 - ⚡ Fun fact: I’m a fan of **tabs** over spaces, and I love **open-source projects**.
@@ -66,6 +66,7 @@
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
       <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" width="48" height="48"/>
       <img src="https://webdriver.io/img/logo-webdriver-io.png" alt="WDIO" width="48" height="48"/>      
+      <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="WDIO" width="48" height="48"/>      
     </td>
   </tr>
 </table>
