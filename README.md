@@ -2,7 +2,7 @@
 </div>
 
 <h1 align="center">Hi, I'm Ivan 👨‍💻</h1>
-<h3 align="center">Full-time University Student & Part-time Developer at Worldline</h3>
+<h3 align="center">Full-time University Student & Part-time Developer at Textelligence</h3>
 <h4 align="center">Passionate about building full-stack web apps and scaling projects 🚀</h4>
 
 ---
