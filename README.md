@@ -77,33 +77,55 @@ As well as everything learned at University
 
 ## 📂 Projects(Pictures can be seen on my personal website):
 
-### 1. Project Name - Car Rental
+### 1. [Car Rental](https://last.ivanraytchinov.us/projects)
 - A Car Rental Management Service. 
   - Real-time updates with Flutter and Quarkus with a SQL Server Database
   - The service allows users to create orders, view vehicle the details including if they are rented and the order number, and statistics for the managed vehicle.
   
-### 2. Project Name - Cloth Simulation
+### 2. [Cloth Simulation](https://last.ivanraytchinov.us/projects)
 - A Cloth Falling Simulator 
 - Made with OpenGL, QT and C++.
 - The simulation allows the user to drop a flat cloth simulation based on the rk4 spring aproach on different objects with increasing accuracy by adding more particles and the changing cloth types by changing the mesh variables.
 
-### 3. Project Name - RWTH Homework Sharing
+### 3. [RWTH Homework Sharing](https://last.ivanraytchinov.us/projects)
 - Website for sharing homework and solutions for RWTH students
 - Made with MEAN Stack. 
 - Allows users to create and view homework and solutions for the homework
 - The website also has a login page and a user page that shows the user's homework and solutions and an admin verification process for non implemented future features.
 
-### 4. Project Name - Turing Machine Simulator
+### 4. [Turing Machine Simulator](https://last.ivanraytchinov.us/projects)
 - A Turing Machine Simulator made with the Swing Library and Java
 - The simulator allows the user to create a Turing Machine with a set of states and transitions and run the machine on a given input
 - The simulator also shows the steps the machine took and the result of the machine
 - The user has the option to tinker with the states or using the format copy paste a whole machine.
 
-### 5. [Project Name - Personal Website](https://last.ivanraytchinov.us/projects)
+### 5. [Personal Website](https://last.ivanraytchinov.us/projects)
 - My personal website made with React and Express js with extra hidden features.
 - Runs fully on a Raspberry Pi 4
 - The hidden projects behind a login page with a Page that takes the statistics of the Raspberry Pi from the backend and shows them on the frontend and a page that can send a message(external_login , external_password) as a Username and password ;) trough the API and onto a python script that displays the last message on the LCD screen connected to the device.
 
+### 6. [B2B Enterprise Platform](https://github.com/lucatotem/b2b-backend)
+- **Scalable Full-Stack Marketplace** focused on modern enterprise design patterns.
+- **Backend:** **.NET 9 REST API** using **Clean Architecture**, **Entity Framework Core**, and **JWT Authentication**.
+- **Frontend:** **Angular** dashboard featuring reactive state management and a modular component structure.
+- **Infrastructure:** **PostgreSQL**, **Redis** caching, **Hangfire** background tasks, and **Docker/Kubernetes** orchestration.
+- **Observability:** Integrated **OpenTelemetry** for deep system tracing and **Playwright** for E2E testing.
+- **Links:** [Frontend Repo](https://github.com/lucatotem/b2b-frontend) | [Backend Repo](https://github.com/lucatotem/b2b-backend)
+
+
+### 7. [Personal AI Assistant (RAG)](https://github.com/lucatotem/AIChatbot)
+- **Context-Aware Chat Engine** that uses **Retrieval-Augmented Generation** to discuss my professional background.
+- **Stack:** **FastAPI**, **LangChain**, and **Python**.
+- **Vector Search:** Implements **FAISS** and **Hugging Face** embeddings for semantic document retrieval from PDF/DOCX sources.
+- **Features:** Asynchronous ingestion pipelines and containerized deployment for high-performance inference.
+
+
+
+### 8. [Eddie - AI Onboarding Platform](https://github.com/lucatotem/Eddie)
+- **Documentation Orchestrator** designed to automate corporate onboarding workflows.
+- **Tech:** **FastAPI** & **React (Vite)**.
+- **Architecture:** A **database-less system** using dynamic **JSON file-based configs**, allowing for instant portability and zero-overhead setup.
+- **Integration:** Custom **Confluence API** bridge that recursively fetches wiki pages and prepares them for AI-driven summaries and automated quiz generation.
 ---
 
 ## 🎯 My Goals:
