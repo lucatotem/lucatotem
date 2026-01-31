@@ -126,7 +126,6 @@ As well as everything learned at University
 - **Tech:** **FastAPI** & **React (Vite)**.
 - **Architecture:** A **database-less system** using dynamic **JSON file-based configs**, allowing for instant portability and zero-overhead setup.
 - **Integration:** Custom **Confluence API** bridge that recursively fetches wiki pages and prepares them for AI-driven summaries and automated quiz generation.
----
 
 ### 9. [AI-Powered Contractor Management Platform](https://github.com/lucatotem/Backend-Contractor-App)
 - **Intelligent Full-Stack Application** focused on AI-driven workflow automation and enterprise architecture.
@@ -135,7 +134,7 @@ As well as everything learned at University
 - **Infrastructure:** **PostgreSQL**, **Redis** caching, **MinIO** object storage, **Alembic** migrations, and **Docker/Kubernetes** orchestration.
 - **Observability:** Integrated **OpenTelemetry** for distributed tracing and **Prometheus** metrics monitoring.
 - **Links:** [Frontend Repo](https://github.com/lucatotem/Frontend-Contractor-App) | [Backend Repo](https://github.com/lucatotem/Backend-Contractor-App)
-
+---
 
 ##  My Goals:
 
