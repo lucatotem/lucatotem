@@ -47,13 +47,13 @@
       <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
       <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind" />
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" alt="QT" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Qt_logo_neon_2022.svg" alt="QT"  width="48" height="48" />
     </td>
     <td align="center" width="25%">
       <h3>Backend & AI</h3>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="48" height="48"/>
       <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-      <img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="FastAPI" />
+      <img src="https://avatars.githubusercontent.com/u/156354296?s=280&v=4" alt="FastAPI"  width="48" height="48" />
       <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" alt="LangChain" width="48" height="48" />
       <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
       <img src="https://blog.doubleslash.de/wp-content/uploads/2021/11/Quarkus_logo.png" alt="Quarkus" width="48" height="48"/>
