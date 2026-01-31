@@ -9,9 +9,9 @@
 
 ### 🚀 About Me:
 - 🎓 I'm currently pursuing a degree in Computer Science at **RWTH Aachen**.
-- 💼 Working part-time at **Textelligence**, where I apply my skills in backend and frontend development.
+- 💼 Working part-time at **Textelligence**, where I apply my skills in backend, frontend and AI development.
 - 🌱 I’m continuously learning new technologies and staying updated with industry trends.
-- 🧠 I’m also exploring fields like **AI** and **machine learning** in my spare time.
+- 🧠 I’m also exploring **Rust** because the pain is not enough and **Three.js** as 3d just looks better
 - ⚡ Fun fact: I’m a fan of **tabs** over spaces, and I love **open-source projects**.
 
 ---
