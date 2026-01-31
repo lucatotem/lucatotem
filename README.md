@@ -11,7 +11,6 @@
 - 🎓 I'm currently pursuing a degree in Computer Science at **RWTH Aachen**.
 - 💼 Working part-time at **Textelligence**, where I apply my skills in backend, frontend and AI development.
 - 🌱 I’m continuously learning new technologies and staying updated with industry trends.
-- 🧠 I’m also exploring **Rust** because the pain is not enough and **Three.js** as 3d just looks better
 - ⚡ Fun fact: I’m a fan of **tabs** over spaces, and I love **open-source projects**.
 
 ---
@@ -130,7 +129,7 @@ As well as everything learned at University
 
 ## 🎯 My Goals:
 
-- 🌐 Short-term: Deepen my understanding of **Machine learning** and **AI Algorithms**.
+- 🌐 Short-term: I’m exploring **Rust** because the pain is not enough and **Three.js** as 3d in the FE just looks better
 - 🚀 Long-term: Lead a team of engineers.
 
 ---
