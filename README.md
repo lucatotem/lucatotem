@@ -3,15 +3,15 @@
 
 <h1 align="center">Hi, I'm Ivan 👨‍💻</h1>
 <h3 align="center">Full-time University Student & Part-time Developer at Textelligence</h3>
-<h4 align="center">Passionate about building full-stack web apps and scaling projects 🚀</h4>
+<h4 align="center">Passionate about building full-stack web apps and scaling projects </h4>
 
 ---
 
-### 🚀 About Me:
-- 🎓 I'm currently pursuing a degree in Computer Science at **RWTH Aachen**.
-- 💼 Working part-time at **Textelligence**, where I apply my skills in backend, frontend and AI development.
-- 🌱 I’m continuously learning new technologies and staying updated with industry trends.
-- ⚡ Fun fact: I’m a fan of **tabs** over spaces, and I love **open-source projects**.
+###  About Me:
+-  I'm currently pursuing a degree in Computer Science at **RWTH Aachen**.
+-  Working part-time at **Textelligence**, where I apply my skills in backend, frontend and AI development.
+-  I’m continuously learning new technologies and staying updated with industry trends.
+-  Fun fact: I’m a fan of **tabs** over spaces, and I love **open-source projects**.
 
 ---
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ My Skill Set:
+##  My Skill Set:
 
 <table align="center">
   <tr>
@@ -74,7 +74,7 @@ As well as everything learned at University
 
 ---
 
-## 📂 Projects(Pictures can be seen on my personal website):
+##  Projects(Pictures can be seen on my personal website):
 
 ### 1. [Car Rental](https://last.ivanraytchinov.us/projects)
 - A Car Rental Management Service. 
@@ -127,14 +127,14 @@ As well as everything learned at University
 - **Integration:** Custom **Confluence API** bridge that recursively fetches wiki pages and prepares them for AI-driven summaries and automated quiz generation.
 ---
 
-## 🎯 My Goals:
+##  My Goals:
 
-- 🌐 Short-term: I’m exploring **Rust** because the pain is not enough and **Three.js** as 3d in the FE just looks better
-- 🚀 Long-term: Lead a team of engineers.
+-  Short-term: I’m exploring **Rust** because the pain is not enough and **Three.js** as 3d in the FE just looks better
+-  Long-term: Lead a team of engineers.
 
 ---
 
-## 🌐 Connect with Me:
+##  Connect with Me:
 
 <div align="center">
   <a href="https://github.com/lucatotem" target="_blank">
