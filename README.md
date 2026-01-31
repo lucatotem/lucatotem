@@ -128,6 +128,15 @@ As well as everything learned at University
 - **Integration:** Custom **Confluence API** bridge that recursively fetches wiki pages and prepares them for AI-driven summaries and automated quiz generation.
 ---
 
+### 9. [AI-Powered Contractor Management Platform](https://github.com/lucatotem/Backend-Contractor-App)
+- **Intelligent Full-Stack Application** focused on AI-driven workflow automation and enterprise architecture.
+- **Backend:** **Python FastAPI REST API** using **Clean Architecture**, **LangGraph AI agents**, **SQLAlchemy**, and **JWT Authentication**.
+- **Frontend:** **React TypeScript** (Vite) featuring modern component design and responsive UI/UX.
+- **Infrastructure:** **PostgreSQL**, **Redis** caching, **MinIO** object storage, **Alembic** migrations, and **Docker/Kubernetes** orchestration.
+- **Observability:** Integrated **OpenTelemetry** for distributed tracing and **Prometheus** metrics monitoring.
+- **Links:** [Frontend Repo](https://github.com/lucatotem/Frontend-Contractor-App) | [Backend Repo](https://github.com/lucatotem/Backend-Contractor-App)
+
+
 ##  My Goals:
 
 -  Short-term: I’m exploring **Rust** because the pain is not enough and **Three.js** as 3d in the FE just looks better
