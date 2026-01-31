@@ -65,7 +65,7 @@
       <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" />
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
       <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
-      <img src="https://avatars.githubusercontent.com/u/10438317?s=200&v=4" alt="Neo4j" width="48" height="48" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" alt="Neo4j" width="48" height="48" />
       <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
     </td>
   </tr>
