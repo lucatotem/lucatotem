@@ -29,43 +29,44 @@
   <tr>
     <td align="center" width="25%">
       <h3>Languages</h3>
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
       <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
       <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" />
-      <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-      <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-      <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-      <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" />
       <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+      <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+      <img src="https://img.icons8.com/color/48/000000/haskell.png" alt="Haskell" />
       <img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL" />
     </td>
     <td align="center" width="25%">
       <h3>Frontend</h3>
       <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
+      <img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" />
       <img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
       <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="Flutter" />
-      <img src="https://raw.githubusercontent.com/kmajhi/java-swing/main/java%20swing.png" alt="Java Swing" width="48" height="48"/>
+      <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind" />
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" />
+      <img src="https://img.icons8.com/color/48/000000/qt.png" alt="QT" />
     </td>
     <td align="center" width="25%">
-      <h3>Backend</h3>
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
-      <img src="https://img.icons8.com/?size=512&id=kg46nzoJrmTR&format=png" alt="Express" width="48" height="48" />
-      <img src="https://blog.doubleslash.de/wp-content/uploads/2021/11/Quarkus_logo.png" alt="Quarkus" width="48" height="48"/>
+      <h3>Backend & AI</h3>
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="48" height="48"/>
-      <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg#gh-light-mode-only" alt="WDIO" width="48" height="48"/>     
+      <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+      <img src="https://img.icons8.com/color/48/000000/fastapi.png" alt="FastAPI" />
+      <img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-dark.svg" alt="LangChain" width="48" height="48" />
+      <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring Boot" />
+      <img src="https://blog.doubleslash.de/wp-content/uploads/2021/11/Quarkus_logo.png" alt="Quarkus" width="48" height="48"/>
     </td>
     <td align="center" width="25%">
-      <h3>DevOps & Tools</h3>
+      <h3>Infrastructure</h3>
       <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" />
-      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
-      <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
-      <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab Pipelines" />
+      <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" />
+      <img src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" />
       <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-      <img src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" alt="GitHub Actions" width="48" height="48"/>
-      <img src="https://webdriver.io/img/logo-webdriver-io.png" alt="WDIO" width="48" height="48"/>       
+      <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" />
+      <img src="https://avatars.githubusercontent.com/u/10438317?s=200&v=4" alt="Neo4j" width="48" height="48" />
+      <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
     </td>
   </tr>
 </table>
